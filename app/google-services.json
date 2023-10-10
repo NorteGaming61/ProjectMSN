@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "598181138613",
+    "project_id": "projectmsn-329cc",
+    "storage_bucket": "projectmsn-329cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598181138613:android:7bd5f7b98f0bddf2f06efc",
+        "android_client_info": {
+          "package_name": "com.example.projectmsn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4oKaVrtXTATdM2JhwxyAO9cp4qYZ-I1w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
